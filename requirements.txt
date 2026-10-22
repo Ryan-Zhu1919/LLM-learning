@@ -1,0 +1,7 @@
+# Shared dependencies for the current notebooks.
+torch
+transformers
+
+# Notebook interface and Python kernel.
+jupyterlab
+ipykernel
