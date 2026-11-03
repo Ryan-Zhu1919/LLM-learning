@@ -23,3 +23,6 @@ checkpoints/
 *.ckpt
 *.bin
 /Draft Code/
+# Local LoRA training artifacts
+/llm-finetuning/qwen2.5-0.5b-lora-final/
+/llm-finetuning/qwen2.5-0.5b-lora-output/
